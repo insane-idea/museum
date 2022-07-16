@@ -1,6 +1,6 @@
 # Museum  
 
-### [Watch deploy](https://insane-idea.github.io/museum/)  
+### Watch [deploy](https://insane-idea.github.io/museum/)  
 
 ## Этапы работы над проектом:
 - фиксированная вёрстка - 1 неделя
